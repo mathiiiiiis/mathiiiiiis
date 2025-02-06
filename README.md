@@ -17,6 +17,10 @@
 ## learning journey
 - Java: beginner
 - C++: exploring basics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiiiiiis&layout=compact&theme=dark)
+
+![mathis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiiiiiis&show_icons=true&theme=dark)
   
 ## contact the void
 mathis@mathiiis.de
