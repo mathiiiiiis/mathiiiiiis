@@ -24,3 +24,5 @@
   
 ## contact the void
 mathis@mathiiis.de
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y61B119O)
