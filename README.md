@@ -2,8 +2,6 @@
 <p align="center">16-year-old developer from Germany</p>
 
 <br>
-<br>
-<br>
 
 <p align="center">
   <a href="https://ko-fi.com/Y8Y61B119O">
