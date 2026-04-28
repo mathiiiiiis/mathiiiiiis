@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mathis! 👋</h1>
+<h2 align="center">Hello, I'm Mathis! 👋</h2>
 <p align="center">16-year-old developer from Germany</p>
 
 <br>
