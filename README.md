@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Mathis! 👋</h2>
-<p align="center">16-year-old developer from Germany</p>
+<p align="center">17-year-old developer from Germany</p>
 
 <br>
 
